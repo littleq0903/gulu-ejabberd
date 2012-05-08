@@ -1,0 +1,4 @@
+45a
+    application:start(erlmongo),
+.
+:w
